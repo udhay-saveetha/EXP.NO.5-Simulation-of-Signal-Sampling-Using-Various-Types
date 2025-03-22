@@ -1,0 +1,1 @@
+# EXP.NO.5-Simulation-of-Signal-Sampling-Using-Various-Types
