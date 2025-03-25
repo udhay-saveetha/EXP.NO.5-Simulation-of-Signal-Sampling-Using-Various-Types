@@ -15,4 +15,4 @@
 # OUTPUT
  
 # RESULT / CONCLUSIONS
-Thus the Ideal sampling,Natural sampling and Flat Top sampling are succesfully verified using python.
+
